@@ -1,5 +1,4 @@
-export const links = [
-    {
+{
         "category": "Social",
         "pages": {
             "Gmail": {
@@ -90,4 +89,3 @@ export const links = [
             }
         }
     }
-]
